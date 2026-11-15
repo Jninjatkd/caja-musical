@@ -1,0 +1,6 @@
+{
+  "name": "Nuestra Cajita Musical",
+  "description": "Una cajita musical interactiva y romántica donde dos ternurines recién casados bailan juntos al compás de una canción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
